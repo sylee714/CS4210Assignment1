@@ -16,7 +16,7 @@ db = []
 X = []
 Y = []
 
-age_values = {'Young' : 1, 'Presbyopic' : 2, 'Prepresbyopic' : 3}
+age_values = {'Young' : 1, 'Prepresbyopic' : 2, 'Presbyopic' : 3}
 spectacle_pres_values = {'Myope' : 1, 'Hypermetrope' : 2}
 astigmatism_values = {'Yes' : 1, 'No' : 2}
 tear_prod_rate_values = {'Normal' : 1, 'Reduced' : 2}
